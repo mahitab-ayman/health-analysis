@@ -1,0 +1,4 @@
+A comprehensive Machine Learning project designed to explore and apply a wide range of classical ML models—including regression and classification algorithms such as XGBoost, Random Forest, Logistic Regression, K-Nearest Neighbors (KNN), and Decision Trees. The project also integrates Deep Learning through Fully Connected Neural Networks and Transfer Learning via fine-tuning pre-trained models. Additionally, ensemble techniques were implemented to improve predictive performance.
+
+The primary objective was to predict the likelihood of diabetes using a real-world dataset. The workflow included extensive Exploratory Data Analysis (EDA) and statistical methods to uncover patterns and relationships in the data. The models were evaluated against global medical thresholds using performance metrics such as AUC, Recall, and F1-Score.
+
